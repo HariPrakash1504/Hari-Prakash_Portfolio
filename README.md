@@ -26,5 +26,9 @@ Data Description:
 ![images2](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/41840e5a-b418-4005-9d39-9002ff52fb85)
 ![image3](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/193fd295-4c40-4a54-8695-3b0f829dd323)
 
+Data Pre-processing:
+• Pre-Processing Data Analysis (count of missing/ null values, redundant columns, etc.)
+• The dataset has missing values in most of the columns.
+
 
 
