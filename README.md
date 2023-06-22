@@ -15,4 +15,7 @@ in their proposed Health plan/policy given the information about Demographics (c
 Data Dictionary:
 
 This organization that provides insurance to their customers wants to cross-sell health insurance to their existing customers hence the dataset obtained from this
+
+ ![](/images/your_image.png)
+ 
 the organization is used for Health Insurance Lead Prediction.
