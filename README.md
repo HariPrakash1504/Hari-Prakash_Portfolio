@@ -12,11 +12,7 @@ Problem Statement:
 The company needs your help in building a model to predict whether the person will be interested
 in their proposed Health plan/policy given the information about Demographics (city, age, region, etc.) Information regarding holding policies of the customer Recommended Policy Information.
 
-![](/images/your_image.png)
-
-
-
 Data Dictionary:
 
 This organization that provides insurance to their customers wants to cross-sell health insurance to their existing customers hence the dataset obtained from this organization is used for Health Insurance Lead Prediction.
-![](/images/your_image.png)
+# ![](/images/your_image.png)
