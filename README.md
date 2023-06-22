@@ -19,3 +19,9 @@ dataset obtained from this organization is used for Health Insurance Lead Predic
 
 ![Images](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/c5260b5d-730e-47b0-8d53-77c7bfc4f940)
 
+*From the above code we can see that there are 50882 records and 14 attributes in the dataset.
+
+Data Description:
+
+
+
