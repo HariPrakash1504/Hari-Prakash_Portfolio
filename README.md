@@ -43,6 +43,12 @@ Before missing value treatment:
 
 ![image5](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/a88c76f3-e617-404c-8379-87f074e515a6)
 
+*The above figure shows missing values in the dataset.
+
+After Missing value treatment:
+
+
+
 
 
 
