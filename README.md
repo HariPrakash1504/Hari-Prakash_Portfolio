@@ -17,4 +17,5 @@ Data Dictionary:
 This organization that provides insurance to their customers wants to cross-sell health insurance to their existing customers hence the
 dataset obtained from this organization is used for Health Insurance Lead Prediction.
 
-![](image/Images.PNG)
+![Images](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/c5260b5d-730e-47b0-8d53-77c7bfc4f940)
+
