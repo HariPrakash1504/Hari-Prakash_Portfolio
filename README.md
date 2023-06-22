@@ -1,18 +1,18 @@
 # Hari-Prakash_Portfolio
 # Health Insurance Lead Prediction
 
-Abstract:
+## Abstract:
 
 The company wants to increase its revenue by cross-selling health insurance to its existing customers
 by collecting surveys to understand their requirements and suggest premium policies based on the survey
 feedback. Once these leads are acquired, the sales advisors approach them to convert, and thus the company can sell proposed health insurance to these leads in a more efficient manner.
 
-Problem Statement:
+## Problem Statement:
 
 The company needs your help in building a model to predict whether the person will be interested
 in their proposed Health plan/policy given the information about Demographics (city, age, region, etc.) Information regarding holding policies of the customer Recommended Policy Information.
 
-Data Dictionary:
+## Data Dictionary:
 
 This organization that provides insurance to their customers wants to cross-sell health insurance to their existing customers hence the
 dataset obtained from this organization is used for Health Insurance Lead Prediction.
@@ -21,31 +21,31 @@ dataset obtained from this organization is used for Health Insurance Lead Predic
 
 *From the above code we can see that there are 50882 records and 14 attributes in the dataset.
 
-Data Description:
+## Data Description:
 
 ![images2](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/41840e5a-b418-4005-9d39-9002ff52fb85)
 ![image3](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/193fd295-4c40-4a54-8695-3b0f829dd323)
 
-Data Pre-processing:
+## Data Pre-processing:
 
 • Pre-Processing Data Analysis (count of missing/ null values, redundant columns, etc.)
 
 • The dataset has missing values in most of the columns.
 
-Missing Value Analysis:
+## Missing Value Analysis:
 
 ![image4](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/abee1dfa-85fb-42f1-8f14-b85c5302285e)
 
 *We have null values in above mentioned three variables.
 
 
-Before missing value treatment:
+## Before missing value treatment:
 
 ![image5](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/a88c76f3-e617-404c-8379-87f074e515a6)
 
 *The above figure shows missing values in the dataset.
 
-After Missing value treatment:
+## After Missing value treatment:
 
 ![image6](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/c83339a2-148e-4f3c-b2f8-dc8555c32c3c)
 
