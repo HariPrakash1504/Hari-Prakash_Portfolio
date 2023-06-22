@@ -36,6 +36,14 @@ Missing Value Analysis:
 
 ![image4](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/abee1dfa-85fb-42f1-8f14-b85c5302285e)
 
+*We have null values in above mentioned three variables.
+
+
+Before missing value treatment:
+
+
+
+
 
 
 
