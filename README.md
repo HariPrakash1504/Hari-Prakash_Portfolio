@@ -151,13 +151,17 @@ supports our Random forest model as the best-fit model.
 
 ## Recommendations:
 
+Recommended Premium:
+
 ![image](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/7be933db-3f26-4e24-9f39-b9e823c1c54a)
 
 ![image19](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/eabf978d-6c6b-47dd-97a2-7500284cb4e5)
 
-Recommended Premium
-
 We suggest targeting customers whose recommended premium is between 15000 – 30000.
+
+Reco Policy Category:
+
+
 
 
 
