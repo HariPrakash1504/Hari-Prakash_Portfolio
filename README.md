@@ -79,6 +79,16 @@ From the above plot, we can say that there are more customers unmarried. More th
 The distribution of Average age between Upper age & Lower age w.r.t Recommended
 policy premium has a positive correlation. As the Average age increases, the recommended policy premium also increases. We can see that, the response for the recommended policy is more scattered throughout the Average age.
 
+## Feature Engineering:
+
+Convert to numerical: Holding policy duration
+
+Feature engineer long-term customers. Convert '14+' to '15'/ convert to numerical.
+
+## Feature Selection:
+
+
+
 
 
 
