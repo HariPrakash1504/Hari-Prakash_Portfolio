@@ -62,6 +62,11 @@ Around 6000 people with owned accommodation have shown interest in the policy. W
 
 ## Holding Policy Type:
 
+![image8](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/018ce4a3-21e7-408a-bcb6-49598c43b466)
+
+There are 4 different types of policies provided by the company XYZ. Most of the customers prefer policy 3. Among policies 1, 2 & 4, people prefer policy 1 followed by policy 2, and policy 4 is the least preferred.
+
+
 
 
 
