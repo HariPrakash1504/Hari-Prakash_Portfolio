@@ -74,6 +74,12 @@ From the above plot, we can say that there are more customers unmarried. More th
 
 ## Average Age vs Policy Premium:
 
+![image10](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/d4a0ec00-07be-477d-b551-1ee53b3045a9)
+
+The distribution of Average age between Upper age & Lower age w.r.t Recommended
+policy premium has a positive correlation. As the Average age increases, the recommended policy premium also increases. We can see that, the response for the recommended policy is more scattered throughout the Average age.
+
+
 
 
 
