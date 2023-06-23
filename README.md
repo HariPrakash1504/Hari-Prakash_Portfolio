@@ -69,3 +69,5 @@ In the below plot, each distribution of Accommodation type w.r.t target variable
 
 
 
+
+
