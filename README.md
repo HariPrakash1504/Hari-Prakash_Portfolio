@@ -161,6 +161,20 @@ We suggest targeting customers whose recommended premium is between 15000 – 30
 
 Reco Policy Category:
 
+![image](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/0cbf1a81-bcd6-447f-8c35-9bb54a784ddc)
+
+Positive to total response ratio
+
+Policy category: 1
+
+Policy category: 11
+
+Policy category: 5
+
+## Based On City Code:
+
+
+
 
 
 
