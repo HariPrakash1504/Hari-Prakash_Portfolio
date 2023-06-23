@@ -177,6 +177,10 @@ Policy category: 5
 
 ![image22](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/244febd4-5aae-45d5-a169-f86d0b4718ea)
 
+![image23](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/1cbb8090-a4bd-41a2-8c58-0eeadbafa120)
+
+*From above Positive ratio we suggest targeting C34, C9, C11 city codes.
+
 
 
 
