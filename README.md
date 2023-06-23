@@ -93,6 +93,22 @@ Feature engineer long-term customers. Convert '14+' to '15'/ convert to numerica
 
 ## Train – Test Split:
 
+![image12](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/705130c9-d520-4be0-8d93-ea21453679d2)
+
+*Here we split the data into train and test sets, where 70% of the data is used for training and 30% data is used for testing with a random seed value of 0. The training dataset is used to train the model for prediction. The test dataset is used to test the model’s efficiency of prediction.
+
+## Handling Imbalance Data (Resampling Technique):
+
+![image13](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/c7dac73f-92bc-4113-a58f-3ce5ea152c8e)
+
+*When observation in one class is higher than the observation in other classes then there exists a class imbalance. We can clearly see that there is a huge difference between the data set. To solve this issue we use the resampling technique.
+
+## Model selection:
+
+
+
+
+
 
 
 
