@@ -66,6 +66,10 @@ Around 6000 people with owned accommodation have shown interest in the policy. W
 
 There are 4 different types of policies provided by the company XYZ. Most of the customers prefer policy 3. Among policies 1, 2 & 4, people prefer policy 1 followed by policy 2, and policy 4 is the least preferred.
 
+## Marital Status:
+
+
+
 
 
 
