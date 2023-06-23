@@ -68,6 +68,14 @@ There are 4 different types of policies provided by the company XYZ. Most of the
 
 ## Marital Status:
 
+![image9](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/985fbde4-94ee-436a-9eb8-5d9570bcbded)
+
+From the above plot, we can say that there are more customers unmarried. More than 30000 unmarried customers do not prefer the recommended policy, whereas around 10000 unmarried customers have shown interest in the policy. More than 5000 married customers have not shown interest in recommended policy, while around 2000 married customers prefer taking the recommended policy.
+
+## Average Age vs Policy Premium:
+
+
+
 
 
 
