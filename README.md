@@ -181,6 +181,17 @@ Policy category: 5
 
 *From above Positive ratio we suggest targeting C34, C9, C11 city codes.
 
+## Conclusion:
+
+• From the given dataset, we have pre-processed the data to draw key insights to analyze the customers based on the data provided through the survey.
+
+• With the available key information, we have processed the data to build several Machine Learning models which learn to classify responses of each customer based on the available information.
+
+• Since the response variable is to classify whether Yes / No, we have used Supervised Learning Classification to build models which are used to classify records based on the available data.
+
+• Upon building multiple SLC models, we chose Random Forest Classifier as our best-fit model as it captures and predicts 88% accurately.
+
+• Also we have provided recommendations based on the business requirement to target groups for better cross-selling health insurance policies.
 
 
 
