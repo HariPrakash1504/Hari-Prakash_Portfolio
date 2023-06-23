@@ -151,6 +151,14 @@ supports our Random forest model as the best-fit model.
 
 ## Recommendations:
 
+![image](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/7be933db-3f26-4e24-9f39-b9e823c1c54a)
+
+
+
+Recommended Premium
+
+We suggest targeting customers whose recommended premium is between 15000 – 30000.
+
 
 
 
