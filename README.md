@@ -55,6 +55,9 @@ dataset obtained from this organization is used for Health Insurance Lead Predic
 
 In the below plot, each distribution of Accommodation type w.r.t target variable is shown.
 
+![image7](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/100ae84c-aff7-4875-87ab-f52efd05b4b7)
+
+
 
 
 
