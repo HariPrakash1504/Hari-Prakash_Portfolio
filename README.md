@@ -89,7 +89,11 @@ Feature engineer long-term customers. Convert '14+' to '15'/ convert to numerica
 
 ![image11](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/31195b84-6658-43a0-8625-6dcf85ebea98)
 
-*Features 'Accommodation Type', 'Reco Insurance Type', 'Is Spouse' will be converted to binary (0 and 1).
+*Features 'Accommodation Type', 'Reco Insurance Type', and 'Is Spouse' will be converted to binary (0 and 1).
+
+## Train – Test Split:
+
+
 
 
 
