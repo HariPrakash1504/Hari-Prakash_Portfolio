@@ -57,6 +57,13 @@ In the below plot, each distribution of Accommodation type w.r.t target variable
 
 ![image7](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/100ae84c-aff7-4875-87ab-f52efd05b4b7)
 
+From the above plot, we can say that there are more people with their own accommodation. There are around 20000 people under-owned who do not show interest in recommended policy.
+Around 6000 people with owned accommodation have shown interest in the policy. Whereas for people with accommodation type rented who show interest in policy is around 5000 and who do not show interest is around 17500.
+
+## Holding Policy Type:
+
+
+
 
 
 
