@@ -143,6 +143,14 @@ supports our Random forest model as the best-fit model.
 
 ## Confusion Matrix:
 
+![image](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/5cd744f5-f83c-46c7-88ad-04a8d2841521)
+
+*The above confusion matrix gives us the values for True Positive, False Positive, Recall, F1-score, Accuracy, and Specificity.
+
+*With these validation metrics, we can validate our best-fit model.
+
+## Recommendations:
+
 
 
 
