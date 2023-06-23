@@ -141,6 +141,9 @@ Rate) lies far away from the axis.
 *Due to the far presence of the ROC curve from the axis, we could say that the acquired AUC score
 supports our Random forest model as the best-fit model.
 
+## Confusion Matrix:
+
+
 
 
 
