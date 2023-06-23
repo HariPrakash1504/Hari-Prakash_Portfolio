@@ -133,6 +133,14 @@ Classification report:
 
 ## ROC Curve:
 
+![image](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/e9864bb8-2a1c-4fbc-8b25-910503b0d12e)
+
+*The above ROC curve which is plotted between TPR (True Positive Rate) vs FPR (False Positive
+Rate) lies far away from the axis.
+
+*Due to the far presence of the ROC curve from the axis, we could say that the acquired AUC score
+supports our Random forest model as the best-fit model.
+
 
 
 
