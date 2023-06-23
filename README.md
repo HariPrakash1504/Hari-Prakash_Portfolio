@@ -127,6 +127,10 @@ as our best-fit model in classifying records.
 ## Validation:
 Classification report:
 
+![images16](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/58cd1327-f328-4971-a6eb-18808ba98868)
+
+*The above classification report gives us the scores of the Random Forest model.
+
 
 
 
