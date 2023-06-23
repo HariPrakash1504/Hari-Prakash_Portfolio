@@ -121,6 +121,13 @@ as our best-fit model in classifying records.
 
 ## Feature Importance for Better Visualization:
 
+![image](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/68a96350-f626-4575-9c50-3982878ab849)
+
+
+## Validation:
+Classification report:
+
+
 
 
 
