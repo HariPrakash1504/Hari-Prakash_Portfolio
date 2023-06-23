@@ -131,6 +131,8 @@ Classification report:
 
 *The above classification report gives us the scores of the Random Forest model.
 
+## ROC Curve:
+
 
 
 
