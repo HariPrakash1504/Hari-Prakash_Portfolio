@@ -49,6 +49,14 @@ dataset obtained from this organization is used for Health Insurance Lead Predic
 
 ![image6](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/c83339a2-148e-4f3c-b2f8-dc8555c32c3c)
 
+## Exploratory Data Analysis:
+
+## Accommodation Type:
+
+In the below plot, each distribution of Accommodation type w.r.t target variable is shown.
+
+
+
 
 
 
