@@ -105,11 +105,21 @@ Feature engineer long-term customers. Convert '14+' to '15'/ convert to numerica
 
 ## Model selection:
 
+![image](https://github.com/HariPrakash1504/Hari-Prakash_Portfolio/assets/113451743/3aed88a5-26af-4fda-b10a-5089947fc406)
 
+From the above models created, we have achieved considerable results in models such
+as Random Forest classifier, Gradient Boost, and XG Boost Classifier.
 
+• Out of which Random Forest seems to be giving better results when compared to other
+models with an Accuracy of 88%.
 
+• We have Recall, Precision, F1 score, and AUC along with the ROC curve supporting our best-fit
+model.
 
+• Hence considering all the validation metrics along with scores, we choose Random Forest
+as our best-fit model in classifying records.
 
+## Feature Importance for Better Visualization:
 
 
 
